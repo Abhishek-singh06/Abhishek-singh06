@@ -5,26 +5,24 @@
 </h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Abhishek%20Kumar%20Singh&fontColor=FFFFFF&fontSize=48&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Abhishek%20Kumar%20Singh&fontColor=FFFFFF&fontSize=48&animation=fadeIn"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=58A6FF&center=true&width=750&lines=B.Tech+Student+at+VIT+Chennai;Java+%7C+Spring+Boot+Developer;React+Developer;LeetCode+Enthusiast;Building+Projects+Every+Day"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&width=750&lines=B.Tech+Student+at+VIT+Chennai;Java+Developer;Spring+Boot+Developer;React+Developer;LeetCode+Enthusiast;Building+Projects+Every+Day"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech Student** at **VIT Chennai**
+🎓 **B.Tech Student at VIT Chennai**
 
 💻 Passionate about **Java, Spring Boot, React & Full Stack Development**
 
-📚 Regularly solving **Data Structures & Algorithms** on **LeetCode**
+📚 Solving **Data Structures & Algorithms** on **LeetCode**
 
-🚀 Building real-world projects while continuously improving my skills
+🚀 Building projects and continuously improving my skills
 
 🌱 Currently Learning
 
@@ -65,7 +63,43 @@
 
 ---
 
-# 📈 GitHub Activity
+# 🐙 GitHub Activity
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=Abhishek-singh06&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Abhishek-singh06/Abhishek-singh06/output/github-contribution-grid-snake-dark.svg"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 LeetCode Activity
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Abhishek_Kumar_Singh01&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -75,41 +109,22 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhishek-singh06&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Abhishek-singh06/Abhishek-singh06/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎵 Spotify Clone | Responsive music player UI | HTML • CSS • JavaScript |
+| 🚀 Project | 📝 Description | 💻 Tech |
+|------------|----------------|----------|
 | 🏫 College Management System | Full Stack DBMS Project | Spring Boot • React • MySQL |
 | 🤖 AI Fake News Detection | Machine Learning Project | Python |
+| 🎵 Spotify Clone | Responsive Music Player | HTML • CSS • JavaScript |
 | 🧮 Calculator | Responsive Calculator | HTML • CSS • JavaScript |
 | 🏏 Cricket Game | Browser Game | JavaScript |
 
 ---
 
-# 🎯 Current Focus
+# 📚 Current Focus
 
 ```text
+✔ Java
 ✔ Spring Boot
 ✔ REST APIs
 ✔ Docker
@@ -157,7 +172,5 @@
 </h3>
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:58A6FF,100:0D1117"/>
-
 </p>
