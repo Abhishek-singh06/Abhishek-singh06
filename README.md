@@ -1,104 +1,111 @@
-<div align="center">
+<h1 align="center">
+Hi 👋, I'm Abhishek Kumar Singh
+</h1>
 
-<!-- ===== HEADER BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhishek%20Kumar%20Singh&fontSize=60&fontColor=00fff5&animation=fadeIn&fontAlignY=38&desc=Transmission%20from%20Sector%2007%20//%20Full-Stack%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<h3 align="center">
+B.Tech @ VIT Chennai • Full Stack Developer • Java • DSA • Open Source
+</h3>
 
-<!-- ===== TYPING TERMINAL ===== -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFF5&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%3E+booting+profile.exe...;%3E+loading+modules%3A+code%2C+coffee%2C+curiosity;%3E+status%3A+ONLINE+%E2%9C%93" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;LeetCode+Enthusiast;Always+Learning+Something+New" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 B.Tech Student at **VIT Chennai**
+- 💻 Solving DSA on LeetCode
+- 🌱 Currently learning **Spring Boot**
+- 🚀 Building Full Stack Projects
+- 📫 Reach me at **abhishek.kumarsingh2024a@vitstudent.ac.in**
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/abhishek-singh-7ba853266">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<br/>
+</p>
 
-<!-- ===== BADGES ROW ===== -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00fff5?style=for-the-badge&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/LOCATION-EARTH_%7C_SECTOR_07-ff00ff?style=for-the-badge&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/CLEARANCE-LEVEL_5-ffcc00?style=for-the-badge&labelColor=0f0c29" />
+---
 
-</div>
+# 🚀 Tech Stack
 
-<br/>
+<p align="center">
 
-<!-- ===== SIGNAL DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,js,ts,html,css,mysql,mongodb,git,github,vscode,firebase,docker" />
 
-## `>` TRANSMISSION_LOG.md
+</p>
 
-```yaml
-identity:
-  callsign: "Abhishek Kumar Singh"
-  handle: "@Abhishek-singh06"
-  role: "Full-Stack Engineer // Systems Architect"
-  origin: "Earth, Sol System"
-  mission: "Building things that shouldn't be possible yet"
+---
 
-directives:
-  - Ship fast, break simulations not production
-  - Turn coffee into commits
-  - Automate everything that repeats twice
-```
+# 📊 GitHub Stats
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<p align="center">
 
-## `>` TECH_ARSENAL.dat
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh06&show_icons=true&theme=tokyonight"/>
 
-<div align="center">
+<img height="180em" src="https://streak-stats.demolab.com?user=Abhishek-singh06&theme=tokyonight"/>
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0f0c29" />
+</p>
 
-*(Swap these for your real stack — full icon list at [Simple Icons](https://simpleicons.org/))*
+<p align="center">
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh06&layout=compact&theme=tokyonight"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+</p>
 
-## `>` SYSTEM_METRICS.exe
+---
 
-<div align="center">
+# 📈 Contribution Graph
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh06&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00fff5&icon_color=ff00ff&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-singh06&theme=github-dark-blue&hide_border=true&background=0f0c29&stroke=00fff5&ring=ff00ff&fire=ffcc00&currStreakLabel=00fff5" width="49%"/>
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh06&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00fff5&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-singh06&theme=tokyo-night"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-singh06&theme=react-dark&bg_color=0f0c29&color=00fff5&line=ff00ff&point=ffcc00&hide_border=true" width="98%"/>
+</p>
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+# 🐍 Contribution Snake
 
-## `>` CONTRIBUTION_MATRIX.gif
+<p align="center">
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Abhishek-singh06/Abhishek-singh06/output/github-contribution-grid-snake-dark.svg"/>
 
-<!-- This is generated by the snake.yml GitHub Action included in this kit -->
-<img src="https://raw.githubusercontent.com/Abhishek-singh06/Abhishek-singh06/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+# 🏆 GitHub Trophies
 
-## `>` INCOMING_TRANSMISSIONS.sh
+<p align="center">
 
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-singh06&theme=tokyonight&column=4"/>
 
-<a href="https://linkedin.com/in/abhishek-singh-7ba853266"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0f0c29"/></a>
-<a href="mailto:abhishek.kumarsingh2024a@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0f0c29"/></a>
+</p>
 
-</div>
+---
 
-<br/>
+# 📌 Featured Projects
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhishek-singh06&label=TRANSMISSION+VIEWS&color=00fff5&style=for-the-badge&labelColor=0f0c29"/>
-</div>
+⭐ Spotify Clone
 
-<!-- ===== FOOTER BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+⭐ Calculator
+
+⭐ Cricket Game
+
+⭐ College Management System (Coming Soon)
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Abhishek-singh06&style=for-the-badge"/>
+
+</p>
