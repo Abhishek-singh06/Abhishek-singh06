@@ -1,74 +1,76 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
+<div align="center">
 
-<h3 align="center">
-💙 Full Stack Developer | Java • Spring Boot • React • DSA Enthusiast
-</h3>
+# Hi 👋, I'm Abhishek Kumar Singh
 
-<p align="center">
+### 💙 Full Stack Developer | Java | Spring Boot | React | DSA Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,30&text=Abhishek%20Kumar%20Singh&fontColor=ffffff&fontSize=52&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,30&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=twinkling"/>
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=B.Tech+Student+at+VIT+Chennai;Java+Backend+Developer;Spring+Boot+Developer;React+Developer;LeetCode+Problem+Solver;Always+Learning+New+Things"/>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;Spring+Boot+Developer;React+Developer;LeetCode+Problem+Solver;Software+Engineer+in+Progress"/>
-
-</p>
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+🎓 B.Tech Student at **VIT Chennai**
 
-🎓 **B.Tech Student at VIT Chennai**
+💙 Passionate about building scalable and efficient applications using **Java**, **Spring Boot**, **React**, and **MySQL**.
 
-💻 Passionate about building scalable applications with **Java, Spring Boot, React and MySQL**
+💡 I enjoy solving Data Structures & Algorithms problems and building real-world full-stack applications.
 
-🚀 Interested in
+---
 
-- Backend Development
-- Full Stack Development
-- System Design
-- Open Source
+### 🚀 What I'm Interested In
 
-🌱 Currently Learning
+- ☕ Java Development
+- 🌐 Full Stack Development
+- ⚙️ Backend Engineering
+- 📱 REST APIs
+- 🧩 System Design
+- 🌍 Open Source
+
+---
+
+### 🌱 Currently Learning
 
 - Spring Boot
 - Docker
 - JWT Authentication
-- REST APIs
 - Microservices
+- System Design
 
-🎯 2026 Goals
+---
 
-- ⭐ 500+ LeetCode Problems
-- 🚀 Software Engineering Internship
+### 🎯 2026 Goals
+
+- ⭐ Solve **500+ LeetCode Problems**
+- 🚀 Build Production Ready Projects
 - 🌍 Contribute to Open Source
-- 📚 Master Spring Boot
+- 💼 Secure a Software Engineering Internship
 
 ---
 
 # 📊 Developer Dashboard
 
-| 💻 Role | 🎯 Goal | 📍 College |
-|:------:|:-------:|:----------:|
-| Full Stack Developer | Software Engineer | VIT Chennai |
+| 💻 Role | 🎓 College | 🎯 Goal |
+|:-------:|:----------:|:-------:|
+| Full Stack Developer | VIT Chennai | Software Engineer |
 
-| ☕ Primary Language | ⚡ Backend | 🌐 Frontend |
-|:------------------:|:----------:|:-----------:|
+| ☕ Language | ⚙️ Backend | 🎨 Frontend |
+|:-----------:|:----------:|:----------:|
 | Java | Spring Boot | React |
 
-| 📚 Learning | 🔥 Daily Routine |
-|:-----------:|:--------------:|
-| Docker • JWT • System Design | LeetCode + Projects |
+| 🗄️ Database | 🔥 Practice |
+|:-----------:|:-----------:|
+| MySQL / MongoDB | LeetCode Daily |
 
 ---
 
 # 🚀 Tech Stack
 
-## Languages
+### 💻 Languages
 
 <p align="center">
 
@@ -76,7 +78,9 @@
 
 </p>
 
-## Frameworks & Libraries
+---
+
+### ⚙️ Frameworks
 
 <p align="center">
 
@@ -84,7 +88,9 @@
 
 </p>
 
-## Database
+---
+
+### 🗄️ Databases
 
 <p align="center">
 
@@ -92,7 +98,9 @@
 
 </p>
 
-## Tools
+---
+
+### 🛠 Tools
 
 <p align="center">
 
@@ -107,21 +115,15 @@
 <p align="center">
 
 <a href="https://leetcode.com/u/Abhishek_Kumar_Singh01/">
-
-<img src="https://img.shields.io/badge/LeetCode-Abhishek__Kumar__Singh01-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Abhishek-singh06">
-
-<img src="https://img.shields.io/badge/GitHub-Abhishek--singh06-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abhishek-singh-7ba853266">
-
-<img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -131,19 +133,15 @@
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=Abhishek-singh06&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🐍 Contribution Snake
 
@@ -155,7 +153,8 @@ srcset="https://raw.githubusercontent.com/Abhishek-singh06/Abhishek-singh06/outp
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/Abhishek-singh06/Abhishek-singh06/output/github-contribution-grid-snake.svg"/>
 
-<img alt="GitHub Contribution Snake"
+<img
+alt="GitHub Contribution Snake"
 src="https://raw.githubusercontent.com/Abhishek-singh06/Abhishek-singh06/output/github-contribution-grid-snake.svg"/>
 
 </picture>
@@ -167,27 +166,14 @@ src="https://raw.githubusercontent.com/Abhishek-singh06/Abhishek-singh06/output/
 
 ---
 
-# 📈 GitHub Languages
-
-<p align="center">
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh06&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-singh06&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏆 LeetCode Activity
 
 <p align="center">
 
 <a href="https://leetcode.com/u/Abhishek_Kumar_Singh01/">
 
-<img width="90%"
+<img
+width="85%"
 src="https://leetcard.jacoblin.cool/Abhishek_Kumar_Singh01?theme=dark&font=Karma&ext=contest"/>
 
 </a>
@@ -212,138 +198,62 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-sin
 <p align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=Abhishek-singh06&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15"/>
+src="https://github-profile-trophy.vercel.app/?username=Abhishek-singh06&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Metrics
+# ⭐ Featured Repositories
 
 <p align="center">
 
+<a href="https://github.com/Abhishek-singh06/College-Management-System">
+
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-singh06&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-singh06&repo=College-Management-System&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/Abhishek-singh06/AI-Fake-News-Detection">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-singh06&repo=AI-Fake-News-Detection&theme=tokyonight"/>
+
+</a>
 
 </p>
-
----
-
-# ⚡ GitHub Stats
 
 <p align="center">
 
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek-singh06&theme=tokyonight"/>
+<a href="https://github.com/Abhishek-singh06/Spotify-Clone">
 
 <img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishek-singh06&theme=tokyonight&utcOffset=5.5"/>
+src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-singh06&repo=Spotify-Clone&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/Abhishek-singh06/SpringBoot-REST-API">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-singh06&repo=SpringBoot-REST-API&theme=tokyonight"/>
+
+</a>
 
 </p>
+
 # 🚀 Featured Projects
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+| 🚀 Project | Description | Tech Stack |
+|------------|-------------|------------|
+| 🏫 **College Management System** | Full Stack ERP with Authentication, Attendance & Student Management | Spring Boot • React • MySQL |
+| 🤖 **AI Fake News Detection** | Machine Learning model for Fake News Classification | Python • Scikit-Learn |
+| 🎵 **Spotify Clone** | Responsive music player inspired by Spotify | HTML • CSS • JavaScript |
+| ☕ **Spring Boot REST API** | RESTful API with Authentication & CRUD Operations | Spring Boot • MySQL |
 
-### 🏫 College Management System
-
-📌 Full Stack College ERP
-
-**Features**
-
-- Student Management
-- Faculty Management
-- Attendance
-- Authentication
-- Dashboard
-
-**Tech Stack**
-
-`Spring Boot`
-
-`React`
-
-`MySQL`
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI Fake News Detection
-
-📌 Machine Learning Project
-
-**Features**
-
-- Text Classification
-- Fake News Detection
-- Model Evaluation
-- NLP
-
-**Tech Stack**
-
-`Python`
-
-`Scikit-Learn`
-
-`Pandas`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎵 Spotify Clone
-
-Responsive Music Player UI
-
-**Tech Stack**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-</td>
-
-<td width="50%">
-
-### 🧮 Calculator
-
-Responsive Calculator
-
-**Tech Stack**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve **500+ LeetCode** problems
-- 🚀 Build production-ready **Spring Boot** projects
-- 🌍 Contribute to **Open Source**
-- 📚 Learn **System Design**
-- ☁️ Learn **Docker & Kubernetes**
-- 💼 Secure a **Software Engineering Internship**
+</div>
 
 ---
 
@@ -355,12 +265,23 @@ Responsive Calculator
 
 </p>
 
-- Spring Boot
-- REST APIs
-- JWT Authentication
-- Docker
-- Kubernetes
-- System Design
+- 🚀 Spring Boot Advanced
+- 🐳 Docker
+- ☸ Kubernetes
+- 🔐 JWT Authentication
+- 📡 REST APIs
+- 🏗 System Design
+- 🌍 Open Source Contribution
+
+---
+
+# 🎯 2026 Goals
+
+- ⭐ Solve **500+ LeetCode Problems**
+- 🚀 Build **10+ Full Stack Projects**
+- 💼 Land a **Software Engineering Internship**
+- 🌍 Contribute to Open Source
+- 📚 Master Spring Boot & System Design
 
 ---
 
@@ -369,75 +290,51 @@ Responsive Calculator
 <p align="center">
 
 <a href="mailto:abhishek.kumarsingh2024a@vitstudent.ac.in">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/abhishek-singh-7ba853266">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Abhishek_Kumar_Singh01/">
-
 <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
 </a>
 
 <a href="https://github.com/Abhishek-singh06">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </p>
 
 ---
 
-# 💬 Favorite Quote
+# 📊 Profile Views
 
 <p align="center">
 
-> **"Consistency beats intensity. One commit, one problem, one improvement every day."**
+<img src="https://komarev.com/ghpvc/?username=Abhishek-singh06&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 💡 Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abhishek-singh06&style=for-the-badge&color=blue"/>
+### *"Consistency compounds. One commit, one bug fix, one solved problem at a time."*
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-singh06&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-<h2 align="center">
+<div align="center">
 
-⭐ Thank You for Visiting My Profile ⭐
+## ⭐ Thanks for Visiting!
 
-</h2>
-
-<p align="center">
-
-If you like my work, consider ⭐ starring my repositories!
-
-</p>
-
-<p align="center">
+If you like my work, consider ⭐ starring my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=6,12,30"/>
 
-</p>
+</div>
