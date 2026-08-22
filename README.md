@@ -126,7 +126,9 @@ A React-based utility for generating customizable passwords with different chara
 
 <img
 width="80%"
-src="https://leetcard.jacoblin.cool/Abhishek_Kumar_Singh01?theme=dark&font=Karma&ext=contest"/>
+src="https://leetcard.jacoblin.cool/Abhishek_Kumar_Singh01?theme=dark&font=Karma&ext=contest"
+alt="LeetCode Profile"
+/>
 
 </p>
 
@@ -134,28 +136,31 @@ I regularly practice **Data Structures & Algorithms** and work on improving my p
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Abhishek-singh06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-singh06&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-singh06&theme=tokyonight"
+width="95%"
+alt="GitHub Profile Summary"
+/>
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=Abhishek-singh06&theme=tokyonight&hide_border=true"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-singh06&theme=tokyonight"
+width="45%"
+alt="Repositories Per Language"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek-singh06&theme=tokyonight"
+width="45%"
+alt="Most Commit Language"
+/>
 
 </p>
 
